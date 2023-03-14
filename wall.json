@@ -32,19 +32,35 @@
     "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/mate%20matterial%20you.png"
   },
   {
-    "name": "NT8",
-    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/NOTHING%203.png"
+    "name": "myblue",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/material%20you%20blue.png"
   },
   {
-    "name": "NT10",
-    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/nothing%20wallpapers.png"
+    "name": "myblue2",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/matterial%20you%20blue.png"
+  },
+    {
+    "name": "myocean",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/matterial%20you%20breakfast.png"
   },
   {
-    "name": "NT9",
-    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/NOTHING%204.png"
+    "name": "mynbreakfast",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/matterial%20you%20breakfast.png"
   },
   {
-    "name": "NT7",
-    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/9.png"
+    "name": "mypinknature",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/pinknature.png"
+  },
+  {
+    "name": "myrusted",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/rusted%20matterial%20you.png"
+  },
+  {
+    "name": "mywood",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/wood%20matterial%20you.png"
+  },
+  {
+    "name": "myorange",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/matterial%20you%20orange.png"
   }
 ]
