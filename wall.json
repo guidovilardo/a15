@@ -59,8 +59,92 @@
     "name": "Mywood",
     "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/wood%20matterial%20you.png"
   },
+   {
+    "name": "Watchtower dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/all%20along%20the%20watch%20tower.png"
+  },
   {
-    "name": "Myorange",
-    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/matterial%20you%20orange.png"
+    "name": "Watchtower light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/all%20along%20the%20watch%20tower%20whithe.png"
+  },
+  {
+    "name": "Jimmy cover dark",
+    "url": "https://github.com/guidovilardo/a15/blob/main/Jimmi%20Hendrix.png?raw=true"
+  },
+  {
+    "name": "Jimmy cover ligth",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/jimmy%20hendrix%20white.png"
+  },
+  {
+    "name": "Angel dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/angel%20white.png"
+  },
+  {
+    "name": "Angel ligth",
+    "url": "https://github.com/guidovilardo/a15/blob/main/angel%20black.png?raw=true"
+  },
+  {
+    "name": "Axis dark",
+    "url": "https://github.com/guidovilardo/a15/blob/main/axis%20black.png?raw=true"
+  },
+  {
+    "name": "Axis light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/axis%20white.png"
+  },
+  {
+    "name": "Deepest dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/deepest%20purple%20black.png"
+  },
+    {
+    "name": "Deepest light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/deepest%20purple%20white.png"
+  },
+  {
+    "name": "Pastel dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/pastel%20black.png"
+  },
+  {
+    "name": "Pastel light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/pastel%20white.png"
+  },
+  {
+    "name": "Artaud dark",
+    "url": "https://github.com/guidovilardo/a15/blob/main/pescado%20rabioso%20black.png?raw=true"
+  },
+  {
+    "name": "Artaud light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/pescado%20rabioso%20white.png"
+  },
+  {
+    "name": "Haze dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/purple%20haze%20black.png"
+  },
+  {
+    "name": "Haze light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/pastel%20black.png"
+  },
+  {
+    "name": "Rehenes dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/rehenes%20black.png"
+  },
+  {
+    "name": "Rehenes light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/rehenes%20black.png"
+  },
+  {
+    "name": "Spotify dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/spotigy%20black.png"
+  },
+  {
+    "name": "Spotify light",
+    "url": "https://github.com/guidovilardo/a15/blob/main/spotify%20white.png?raw=true"
+  },
+  {
+    "name": "Twitter dark",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/twitterl%20black.png"
+  },
+  {
+    "name": "Twitter light",
+    "url": "https://raw.githubusercontent.com/guidovilardo/a15/main/twitter%20white.png"
   }
 ]
